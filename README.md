@@ -12,3 +12,5 @@ Requirements:
 
  * ConTeXt
  * pandoc
+  
+[Jupyter Notebook](README.ipynb)
