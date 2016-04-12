@@ -2,90 +2,82 @@ Joshua Cook
 ============
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- [+13104331646](tel:+13104331646) // [blog](http://joshuacook.github.io) // [github](http://github.com/joshuacook) // [\@joshuacook](http://twitter.com/joshuacook) // [me@joshuacook.me](mailto:me@joshuacook.me)
+ Data Scientist
+
+ Specialties: Jupyter, Systems Architecture, Large Data Sets
+
+ [+13104331646](tel:+13104331646) // [blog](http://joshuacook.github.io) // [github](http://github.com/joshuacook) // [\@joshuacook](http://twitter.com/joshuacook) // [me@joshuacook.me](mailto:me@joshuacook.me)  
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Education
----------
-
-2014-2015
-:   **Bachelor of Science, Mathematics** Cal State Northridge (Northridge, Ca)
-
-    *Senior Thesis: [Computational Methods in Molecular Quantum Mechanics](https://dl.dropboxusercontent.com/u/407587/thesis.pdf)*
-
-    *Senior Project: [The Zernike Polynomials](https://dl.dropboxusercontent.com/u/407587/zernike.pdf)*
-
-    *Poster Presented:  
-    [Applications of Imaginary Time Propagation Method in Material Research](https://dl.dropboxusercontent.com/u/407587/Eloranta%20Lab/20141112-nsf_prem.pdf)*   
-    
-    Funding provided by National Science Foundation through [PREM](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5439) Grant.
-
-2012-2014
-:   **Associate of Science, Physics** Santa Barbara City College (Santa Barbara, Ca)
 
 Experience
 ----------
+2016
+:   **Automation Engineer** for [Telescope, Inc](http://https://telescope.tv/) (Los Angeles, Ca)
+
+    Built automation platform for continuous automated testing of platform APIs. Design development process around adding new Spec files as needed.
 
 2015
-:   **Sofware Quality Assurance Engineer** Invoca (Santa Barbara, Ca) 
+:   **Sofware Quality Assurance Engineer** for [Invoca](http://www.invoca.com/) (Santa Barbara, Ca)
 
-    * Perform blackbox, whitebox, system and load testing of a SaaS Ruby-on-Rails web application with an emphasis on 
-        SIP systems (FreeSwitch), API responses and webhooks, call fraud detection, and event handling and messaging queues (AMQP, RabbitMQ). 
- 
-    * Plan, develop, and iterate automated testing suite using Rspec, Capybara, and Selenium.
+    Performed quality assurance testing for a Ruby-on-Rails web application. Served as scrum master for development team.
 
-    * Develop and deploy [API Echo Server](https://github.com/joshuacook/echo_server) for use in testing. 
 
-    * Develop [Ruby Gem SIP client](https://github.com/joshuacook/invoke_call) and [Ruby Gem SIP load testing tool](https://github.com/joshuacook/imbibe) each 
-        with command line interfaces built using the Thor library. 
-
-    * Configure, provision, and deploy local, Vagrant, and cloud (AWS) instances. Maintain [repository](https://github.com/joshuacook/vagrant_boxes) of Vagrant boxes for quick provisioning. 
-
-    * Scrum Master for Scrum Team
-    
 2014-2015
-:   **Scientific Software Engineering Intern** Lab of [Dr. Jussi Eloranta](http://www.csun.edu/~jeloranta/)
+:   **Computational Mathematics Internship** in the Lab of [Dr. Jussi Eloranta](http://www.csun.edu/~jeloranta/)
 
     Cal State Northridge, Department of Chemistry and Biochemistry (Northridge, Ca)
 
-    * Planned, developed, and iterated computational algorithms for diagonalizing large matrices (numpy/scipy, blas/lapack/arpack).
+    Elaborated upon algorithms for diagonalizing large matrices. Configured and maintained student Linux workstations. Funding provided through NSF PREM grant.
 
-    * Developed [bash tools](https://github.com/joshuacook/dotfiles) for use in development environment.
+2012-2014
+:   **Site Architect** for [Phylia de M.](http://phylia.com/) (Los Angeles, Ca)
 
-    * Trained others in software development process.
-   
-    * Configured and maintained student Linux workstations.
+    Built technical infrastructure for high-end hair care product. Configured and provisioned Linux servers for development, staging, and production environments from raw Ubuntu images and managed multiple MySQL databases via scripted backup and maintenance.
 
-2012-2014 
-:   **Full-Stack Web Developer** Phylia, De M. (Remote)
+2010-2012
+:   **Lecturer** for the Teacher Education Program at UCLA (Los Angeles, Ca)
 
-    * Solely responsible for all development and maintenance (magento, MySQL).
+2005-2010
+:   **Mathematics Teacher** in the Los Angeles Unified School District (Los Angeles, Ca)
 
-    * Scaled seamlessly from \$50,000 in annual sales to \$1 million in annual sales. 
-    
-    * Implemented all front end design and performances features (JavaScript, jQuery).
-   
-    * Iterated site through two distinct design revisions.
- 
-    * Iterated site through two distinct infrastructure changes. 
+Projects \& Publications
+--------
+Amazon Web Services
+:   Designed secure, scalable, and fault-tolerant automation platform using AWS Elastic Compute Cloud, Simple Queue Service, Relational Database Service, and Virtual Private Cloud. Wrote all system software and unit tests using Ruby-on-Rails, Sinatra, and RSpec.
 
-    * Responsible for development, staging, and production environment maintenance.
+Docker
+:   Published [*the Containerized Jupyter Platform*](https://leanpub.com/thecontainerizedjupyterplatform/) on using Docker to build a distributed data science platform.
 
-    * Managed SQL Database and created routine database backup and maintenance jobs.
+Heroku
+:   Designed basic API Response server using Heroku's free service. Wrote all system  [software](https://github.com/joshuacook/echo_server).
 
-    * Wrote custom PHP scripts for integrations with shipping (FedEx, UPS, drop-shipper) 
-    and accounting (QuickBooks) processes.
+numpy/scipy
+:   Presented poster titled [*Applications of Imaginary Time Propagation Method in Material Research*](https://www.dropbox.com/s/gz7xc0p2vc2vx4j/20141112-nsf_prem.pdf?dl=0) on my computational research in Dr. Eloranta's lab and how it intersects with lab work around liquid-to-liquid phase change caused by quantum effects unique to low temperature Helium.
+:   Published [*The Zernike Polynomials*](https://leanpub.com/thezernikepolynomials/) a short paper proving various assertions and describing a simple system built in Python for generating 2D and 3D plots.
 
-Additional
-----------
+scikit-learn
+:   Completed various projects ([1](https://github.com/joshuacook/titanic_survival_exploration),  [2](https://github.com/joshuacook/boston_housing_data_model_development),  [3](https://github.com/joshuacook/student_intervention)) for Udacity's Machine Learning Nanodegree. Expect to complete program in June of 2016.
 
-\ \ 
+Ruby
+:   Wrote [SIP Client Ruby Gem](https://github.com/joshuacook/invoke_call) and [SIP Load Testing Ruby Gem](https://github.com/Invoca/simple_sipp_load_tester).
 
-: Have run five marathons (4:20 personal best).
 
-: Have bicycled from Ventura to San Francisco.
 
-: Have bicycled from Talinn, Estonia to Helsinki, Finland.
+Education
+---------
+ \  
+:   **Bachelor of Science in Mathematics** at Cal State Northridge
+    \ (Northridge, Ca).
 
-: Have visited 39 states. 
+    Senior Thesis: *Computational Methods in Molecular Quantum Mechanics*
 
+ \  
+:   **Master of Education** at UCLA
+    \ (Los Angeles, Ca).
+
+ \ 
+:   **Bachelor of Arts in English** at UC Berkeley
+    \ (Berkeley, Ca).

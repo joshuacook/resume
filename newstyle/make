@@ -1,0 +1,19 @@
+#!/usr/bin/perl
+
+# pandoc command and arguments
+$pandoc_string =              "pandoc                                                                                     ";
+$pandoc_string = $pandoc_string."--latex-engine=xelatex                                                                     ";
+$pandoc_string = $pandoc_string."-V fontsize=12pt                                                                           ";
+
+# assembly of document
+# document meta information
+
+$pandoc_string = $pandoc_string."'cv.md'                                                                             ";
+$pandoc_string = $pandoc_string."'description.md'                                                                            ";
+$pandoc_string = $pandoc_string."'projects.md'                                                                           ";
+$pandoc_string = $pandoc_string."'experience.md'                                                                             ";
+$pandoc_string = $pandoc_string."'publications.md'                                                                   ";
+$pandoc_string = $pandoc_string."'education.md'                                                                  ";
+
+$pandoc_string = $pandoc_string."-o 'resume.pdf'";
+exec($pandoc_string);

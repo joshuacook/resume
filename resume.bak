@@ -1,0 +1,128 @@
+Joshua Cook
+============
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ [+13104331646](tel:+13104331646) // [blog](http://joshuacook.github.io) // [github](http://github.com/joshuacook) // [\@joshuacook](http://twitter.com/joshuacook) // [me@joshuacook.me](mailto:me@joshuacook.me) 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Education
+---------
+
+2014-2015
+:   **Bachelor of Science, Mathematics** Cal State Northridge (Northridge, Ca)
+
+    Poster Presented: *Applications of Imaginary Time Propagation Method in Material Research*   
+
+    Grant Winner: NSF Partnership for Research and Education in Materials
+
+2009-2010
+:   **Master of Education** University of California, Los Angeles (Los Angeles, Ca)
+
+1993-1997
+:   **Bachelor of Arts, English** University of California, Berkeley (Berkeley, Ca)
+
+Experience
+----------
+2016
+:   **Automation Engineer** Telescope, Inc (Los Angeles, Ca)
+
+    * Design, develop, and deploy automation platform for continuous automated testing of platform APIs.
+
+    * Participate in exploratory work around Apache Spark data stream infrastructure, in particular around developing company procedures for using Jupyter Notebooks to process data and create dashboards.
+
+2015
+:   **Sofware Quality Assurance Engineer** Invoca (Santa Barbara, Ca)
+
+    * Performed blackbox, whitebox, system and load testing of a SaaS Ruby-on-Rails web application with an emphasis on
+        SIP systems (FreeSwitch), API responses and webhooks, call fraud detection, and event handling and messaging queues (AMQP, RabbitMQ).
+
+    * Planned, developed, and iterated automated testing suite using RSpec, Capybara, and Selenium.
+
+    * Designed, developed, and deployed [API Echo Server](https://github.com/joshuacook/echo_server) for use in testing.
+
+    * Develop [Ruby Gem SIP client](https://github.com/joshuacook/invoke_call) and [Ruby Gem SIP load testing tool](https://github.com/Invoca/simple_sipp_load_tester) each
+        with command line interfaces built using the Thor library.
+
+    * Configure, provision, and deploy local, Vagrant, and cloud (AWS) instances. Maintain [repository](https://github.com/joshuacook/vagrant_boxes) of Vagrant boxes for quick provisioning.
+
+    * Scrum Master for Scrum Team
+
+2012-2015
+:   **Consultant** The Learning Collective (Remote)
+
+    * Developed metrics for measuring success of implementation of hybrid learning programs.
+
+    * Conducted in-depth analysis of student success data.
+
+    * Developed outreach programs and metrics for measuring their success.
+
+2014-2015
+:   **Scientific Software Engineering Intern** Lab of [Dr. Jussi Eloranta](http://www.csun.edu/~jeloranta/)
+
+    Cal State Northridge, Department of Chemistry and Biochemistry (Northridge, Ca)
+
+    * Planned, developed, and iterated computational algorithms for diagonalizing large matrices (numpy/scipy, blas/lapack/arpack).
+
+    * Developed [bash tools](https://github.com/joshuacook/dotfiles) for use in development environment.
+
+    * Trained others in software development process.
+
+    * Configured and maintained student Linux workstations.
+
+2012-2014
+:   **Site Architect** Phylia, De M. (Remote)
+
+    * Solely responsible for all development and maintenance (magento, MySQL).
+
+    * Scaled seamlessly from \$50,000 in annual sales to \$1 million in annual sales.
+
+    * Implemented all front end design and performances features (JavaScript, jQuery).
+
+    * Iterated site through two distinct infrastructure changes.
+
+    * Managed SQL Database and created routine database backup and maintenance jobs.
+
+    * Wrote custom PHP scripts for integrations with shipping (FedEx, UPS, drop-shipper)
+    and accounting (QuickBooks) processes.
+
+2010-2012
+:   **Lecturer** UCLA, Teacher Education Program (Los Angeles, Ca)
+
+    * Taught core curriculum courses in the TEP Single Subject Credential and Masters Degree program.
+
+    * Supervised bilingual field team in their student teaching and practice-oriented coursework.
+
+2005-2010
+:   **Mathematics Teacher**, Los Angeles Unified School District and Green Dot Public Schools (Los Angeles, Ca)
+
+    * Served as Department Chair, Animo Justice Charter High School (2007-2010).
+
+    * Taught Algebra, Geometry, Algebra II, and Pre-Calculus.
+
+    * Developed schoolwide math curriculum geared toward English Language Learning students.
+
+Publications
+-----------
+
+\ \
+
+: *The Api Testing Platform*, Leanpub, 2016.
+
+: *Computational Methods in Molecular Quantum Mechanics*, Leanpub, 2015.
+
+: *The Zernike Polynomials*, Leanpub, 2014.
+
+: *Politics Over Pedagogy*, Leanpub, 2010.
+
+Additional
+----------
+
+\ \
+
+: Have run five marathons (4:20 personal best).
+
+: Have bicycled from Ventura to San Francisco.
+
+: Have bicycled from Talinn, Estonia to Helsinki, Finland.
+
+: Have visited 39 states.
