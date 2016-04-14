@@ -2,9 +2,9 @@ Joshua Cook
 ============
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- Data Scientist
+ Systems Architect
 
- Specialties: Jupyter, Systems Architecture, Large Data Sets
+ Specialties: Systems Architecture, Large Data Sets, Automation
 
  [+13104331646](tel:+13104331646) // [blog](http://joshuacook.github.io) // [github](http://github.com/joshuacook) // [\@joshuacook](http://twitter.com/joshuacook) // [me@joshuacook.me](mailto:me@joshuacook.me)  
 
