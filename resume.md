@@ -3,11 +3,13 @@ Joshua Cook
 
 \raggedcenter
  
- Bash, C, Latex, Python, Ruby, Scala
+ Bash, C, Latex, Python, Ruby
  
- BLAS/Lapack, numpy/scipy, `scikit-image`, `scikit-learn`, Spark
+ BLAS/Lapack, numpy/scipy/pandas, `scikit-image`, `scikit-learn`
+
+ Computational Mathematics, Machine Learning
  
- [*nix](http://joshuacook.me), AMQP, AWS, Chef, Docker, Heroku, RESTful APIs, SIP/VOIP, SQL/NoSQL, web sockets, Vagrant
+ [*nix](http://joshuacook.me), AWS, Chef, Docker, Heroku, RESTful APIs, SIP/VOIP, SQL/NoSQL, web sockets, Vagrant
  
  [+13104331646](tel:+13104331646)  $\cdot$ 
  [joshuacook.me](http://joshuacook.me) $\cdot$ 
@@ -22,13 +24,20 @@ Joshua Cook
 
 Experience
 ----------
-2/2016 - present 
+7/2016 - Present
+:   **Senior Python Engineer** for [Inrix](http://inrix.com) (Santa Monica, Ca)
+
+    - Design and implement predictive models for parking data using pure numpy
+    - Develop data quality metrics and use to assess proprietary and competitor data
+    - Elaborate upon existing in-house data processing and analysis tools
+
+1/2016 - 7/2016 
 :   **Automation Engineer** for [Telescope, Inc](http://telescope.tv/) (Los Angeles, Ca)
 
     - Designed and built [automation platform](http://joshuacook.me/filesystem/automated_testing_platform.pdf/) for continuous automated testing of platform API using AWS Elastic Compute Cloud, Simple Queue Service(AWS Ruby SDK), and Relational Database Service (MySQL). 
     - Wrote all system software and unit tests using Ruby frameworks (Rails, Sinatra, and RSpec).
 
-5/2015 - 2/2016 
+5/2015 - 1/2016 
 :   **Sofware Quality Assurance Engineer** for [Invoca](http://www.invoca.com/) (Santa Barbara, Ca)
 
     - Performed quality assurance testing for a Ruby-on-Rails web application (Ruby, RSpec, Chef). 
@@ -50,6 +59,16 @@ Experience
     - Configured and provisioned Linux servers for development and production environments. 
     - Managed multiple MySQL databases via scripted backup and maintenance.
 
+1/2005 - 6/2012
+:   **High School Mathematics Teacher** (Los Angeles, Ca)
+
+    - Taught Geometry and Pre-Calculus at the Secondary-level in South Los Angeles in English and Spanish.
+    - Trained student teachers. 
+    - Served as Department Chair Animo Justice Charter High School, 2007-2010. 
+
+\definepagebreak[emptyodd][yes,header,footer,odd]
+\setuphead[chapter][page=emptyodd]
+  
 Projects \& Publications
 --------
 
@@ -69,7 +88,11 @@ Docker \& Jupyter
 
 Education
 ---------
- \  
+ \ 
+:   **Master of Applied Statistics** at UCLA 
+   \ *expected completion May 2018*
+   \ (Los Angeles, Ca)
+ 
 :   **Bachelor of Science in Mathematics** at Cal State Northridge
     \ (Northridge, Ca).
 
@@ -77,8 +100,14 @@ Education
     - Presented poster, [*Applications of Imaginary Time Propagation Method in Material Research*](http://joshuacook.me/filesystem/applications_of_imaginary_time_propagation.pdf/).
     - Wrote senior thesis, [*Computational Methods in Molecular Quantum Mechanics*](https://leanpub.com/computationalmethodsinmolecularquantummechanics).
 
-\ 
+ \ 
+: **Master of Education** at UCLA
+\ (Los Angeles, Ca)
+
+ \ 
 :   **Bachelor of Arts in English** at UC Berkeley
 \ (Berkeley, Ca).
+
  \ 
-:   **Machine Learning Nanodegree** via [Udacity](https://profiles.udacity.com/u/joshuacook) *expected completion June 2016*
+:   **Machine Learning Nanodegree** via [Udacity](https://profiles.udacity.com/u/joshuacook) 
+\ *expected completion August 2016*
