@@ -1,26 +1,21 @@
 Joshua Cook
 ============
 
-\raggedcenter
 
- Bash, C, Latex, Python, Ruby
+> Bash, C, Latex, Python, Ruby  
+> BLAS, LAPACK, numpy  
+> Computational Mathematics, Machine Learning
 
- BLAS/Lapack, numpy/scipy/pandas, `scikit-image`, `scikit-learn`
+> [+13104331646](tel:+13104331646)  $\cdot$
+> [joshuacook.me](http://joshuacook.me) $\cdot$
+> [me@joshuacook.me](mailto:me@joshuacook.me)   
 
- Computational Mathematics, Machine Learning
-
- [*nix](http://joshuacook.me), AWS, Chef, Docker, Heroku, RESTful APIs, SIP/VOIP, SQL/NoSQL, web sockets, Vagrant
-
- [+13104331646](tel:+13104331646)  $\cdot$
- [joshuacook.me](http://joshuacook.me) $\cdot$
- [me@joshuacook.me](mailto:me@joshuacook.me)   
-
- [![](img/docker.png)](https://hub.docker.com/u/joshuacook/)
- [![](img/github.png)](http://github.com/joshuacook)
- [![](img/leanpub.png)](https://leanpub.com/u/joshuacook)
- [![](img/linkedin.png)](https://www.linkedin.com/in/joshuapaulcook)
- [![](img/stackoverflow.png)](http://stackoverflow.com/users/1081801/joshua-cook)
- [![](img/twitter_bird_logo_2012-small.png)](http://twitter.com/joshuacook)
+> [![](img/docker.png)](https://hub.docker.com/u/joshuacook/)
+> [![](img/github.png)](http://github.com/joshuacook)
+> [![](img/leanpub.png)](https://leanpub.com/u/joshuacook)
+> [![](img/linkedin.png)](https://www.linkedin.com/in/joshuapaulcook)
+> [![](img/stackoverflow.png)](http://stackoverflow.com/users/1081801/joshua-cook)
+> [![](img/twitter_bird_logo_2012-small.png)](http://twitter.com/joshuacook)
 
 Experience
 ----------
@@ -59,7 +54,13 @@ Experience
     - Configured and provisioned Linux servers for development and production environments.
     - Managed multiple MySQL databases via scripted backup and maintenance.
 
-1/2005 - 6/2012
+7/2010 - 6/2012
+:   **Lecturer** in the Graduate School of Education \& Information Studies at UCLA (Los Angeles, Ca)
+
+    - Taught graduate students earning their Masters of Education
+    - Taught pre-service teachers earning Secondary Credential in Mathematics
+
+1/2005 - 6/2010
 :   **High School Mathematics Teacher** (Los Angeles, Ca)
 
     - Taught Geometry and Pre-Calculus at the Secondary-level in South Los Angeles in English and Spanish.
@@ -69,25 +70,52 @@ Experience
 \definepagebreak[emptyodd][yes,header,footer,odd]
 \setuphead[chapter][page=emptyodd]
 
+\pagebreak
+
 Projects \& Publications
 --------
 
 AWS System \crlf Architecture
-:   Designed [**image analysis system**](http://joshuacook.me/filesystem/cloud_infrastructure_img_proc.pdf/) using AWS Elastic Compute Cloud, Simple Queue Service, and Relational Database Service (PostgreSQL). Wrote all system software and unit tests using Ruby frameworks (Rails, Sinatra, and RSpec) and Python frameworks (numpy, `scikit-image`, and `scikit-learn`).
+:   [**Image Analysis System**](http://joshuacook.me/filesystem/cloud_infrastructure_img_proc.pdf/)
+
+    - uses AWS Elastic Compute Cloud, Simple Queue Service, and Relational Database Service (PostgreSQL).  
+
+:   **API platform and database**
+
+    - maintain proprietary API platform and database
+    - running on AWS Elastic Compute Cloud and Relational Database Service
+    - running Django, PostgreSQL, Redis, MongoDB, and Celery.
 
 C \& Ruby
-:   [`simple_sipp_load_tester` gem](https://github.com/Invoca/simple_sipp_load_tester), a wrapper to a complex C tool for load testing SIP platforms.
+:   [**`simple_sipp_load_tester` gem**](https://github.com/Invoca/simple_sipp_load_tester),
 
-\
-:   [`invoke_call` gem](https://github.com/joshuacook/invoke_call), a command line SIP client.
+    - a wrapper to a C tool for load testing SIP platforms.
+
+:   [**`invoke_call` gem**](https://github.com/joshuacook/invoke_call)
+
+    - a command line SIP client.
 
 Docker \& Jupyter
-:   [*the Containerized Jupyter Platform*](https://leanpub.com/thecontainerizedjupyterplatform/), a reference text on using Docker to build a distributed data science platform.
+:   [**the Containerized Jupyter Platform**](https://leanpub.com/thecontainerizedjupyterplatform/)
+
+    - a reference text on using Docker to build a distributed data science platform.
+
+:   [**Responsive Artificial Intelligence**](https://github.com/joshuacook/resp_AI), *In Progress*
+
+    - leverages five different Docker images and the `docker-compose` tool to build an interactive system with delayed job processing.
 
 Machine Learning
-:   [*Responsive Artificial Intelligence*](https://github.com/joshuacook/resp_AI), *In Progress* a project toward the completion of my Udacity Machine Learning Nanodegree. Leverages Syntaxnet as NLP parser and a Q-Learning Algorithm to train the AI to respond to elementary set theory questions.
-:   [*Train Smartcab to Drive*](http://joshuacook.me/filesystem/cloud_infrastructure_img_proc.pdf/), uses reinforcement learning to train a smartcab to follow the rules of the road.
-:   [*Simple Wikipedia Search Engine*](https://github.com/joshuacook/latent_semantic_analysis), uses latent semantic analysis to perform search over a Wikipedia category.
+:   [**Responsive Artificial Intelligence**](https://github.com/joshuacook/resp_AI), *In Progress*
+
+    - uses Syntaxnet as NLP parser and a Q-Learning Algorithm to train the AI to respond to elementary set theory questions.
+
+:   [**Train Smartcab to Drive**](http://joshuacook.me/filesystem/cloud_infrastructure_img_proc.pdf/)
+
+    - uses reinforcement learning to train a smartcab to follow the rules of the road.
+
+:   [**Simple Wikipedia Search Engine**](https://github.com/joshuacook/latent_semantic_analysis)
+
+    - uses latent semantic analysis to perform search over a Wikipedia category.
 
 
 
