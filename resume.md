@@ -1,10 +1,10 @@
 Joshua Cook
 ============
 
-
-> Bash, C, Latex, Python, Ruby  
-> BLAS, LAPACK, numpy  
-> Computational Mathematics, Machine Learning
+> Bash, C, Latex, Python, SQL  
+> BLAS, LAPACK, numpy/scipy, pandas, sklearn, tensorflow, keras  
+> Computational Mathematics, Machine Learning  
+> AWS CPU/GPU, Docker, Mongo, Postgres, Spark
 
 > [+13104331646](tel:+13104331646)  $\cdot$
 > [joshuacook.me](http://joshuacook.me) $\cdot$
@@ -19,60 +19,65 @@ Joshua Cook
 
 Experience
 ----------
-7/2016 - Present
-:   **Senior Python Engineer** for [Inrix](http://inrix.com) (Santa Monica, Ca)
+2016 - Present
+:   **Instructor, Data Science Immersive** for [General Assembly](http://generalassemb.ly) (Santa Monica, Ca)
 
-    - Design and implement predictive models for parking data using pure numpy
-    - Develop data quality metrics and use to assess proprietary and competitor data
-    - Elaborate upon existing in-house data processing and analysis tools
+    - Design and implement 450 hour curriculum in the fundamentals of statistical learning.
+    - Manage student project development in fields such as Semantic Search, Feature Extraction Pipelines, 
+      Computer Vision, Convolutional Neural Networks, and Fourier Analysis.
+    - Guide students in the design and maintanence of scalable data infrastructure using AWS, Docker, and 
+      open-source technologies such as MongoDB, PostgreSQL, and Apache Spark.
 
-1/2016 - 7/2016
-:   **Automation Engineer** for [Telescope, Inc](http://telescope.tv/) (Los Angeles, Ca)
+2016 - Present
+:   **Author**, *The Containerized Jupyter Platform* for [APress](http://apress.com) (Santa Monica, Ca)
 
-    - Designed and built [automation platform](http://joshuacook.me/filesystem/automated_testing_platform.pdf/) for continuous automated testing of platform API using AWS Elastic Compute Cloud, Simple Queue Service(AWS Ruby SDK), and Relational Database Service (MySQL).
-    - Wrote all system software and unit tests using Ruby frameworks (Rails, Sinatra, and RSpec).
+     - Conceive, develop, and author forthcoming (Late Summer 2017) book on using Docker and Jupyter
+       for scalable medium- and large-scale data applications.
 
-5/2015 - 1/2016
+2016 - Present
+:   **Developer** for [Udacity](http://udacity.com) (Remote)
+
+    - Iterate on Deep Learning Project for Machine Learning Nanodegree using keras and tensorflow.
+    - Design and maintain Docker image for students of Self-Driving Car Nanodegree.
+
+2016 - 2017
+:   **Machine Learning Engineer** for [Inrix](http://inrix.com) (Santa Monica, Ca)
+
+    - Designed and implemented predictive models using pure numpy and sklearn.
+    - Elaborated upon existing in-house data processing and analysis tools.
+
+2015 - 2016
 :   **Sofware Quality Assurance Engineer** for [Invoca](http://www.invoca.com/) (Santa Barbara, Ca)
 
-    - Performed quality assurance testing for a Ruby-on-Rails web application (Ruby, RSpec, Chef).
-    - Served as scrum master for development team.
-
-
-8/2014 - 5/2015
-:   **Computational Mathematics Internship** in the Lab of [Dr. Jussi Eloranta](http://www.csun.edu/~jeloranta/)
+2014 - 2015
+:   **Research Fellow** in the Lab of [Dr. Jussi Eloranta](http://www.csun.edu/~jeloranta/)
 
     Cal State Northridge, Department of Chemistry and Biochemistry (Northridge, Ca)
 
     - Elaborated upon algorithms for diagonalizing large matrices (C, Python).
-    - Configured and maintained student Linux workstations (Fedora).
+    - Funding provided by NSF Grant, Partnership for Research and Education in Materials.
 
-8/2012 - 8/2014
-:   **Site Architect** for [Phylia de M.](http://phylia.com/) (Los Angeles, Ca)
+2012 - 2014
+:   **Full Stack Web Developer** for [Phylia de M.](http://phylia.com/) (Los Angeles, Ca)
 
-    - Designed site architecture using Linux (Ubuntu), Apache, MySQL, and Magento (PHP).
-    - Configured and provisioned Linux servers for development and production environments.
-    - Managed multiple MySQL databases via scripted backup and maintenance.
-
-7/2010 - 6/2012
+2010 - 2012
 :   **Lecturer** in the Graduate School of Education \& Information Studies at UCLA (Los Angeles, Ca)
 
     - Taught graduate students earning their Masters of Education
     - Taught pre-service teachers earning Secondary Credential in Mathematics
 
-1/2005 - 6/2010
+2005 - 2010
 :   **High School Mathematics Teacher** (Los Angeles, Ca)
 
-    - Taught Geometry and Pre-Calculus at the Secondary-level in South Los Angeles in English and Spanish.
-    - Trained student teachers.
-    - Served as Department Chair Animo Justice Charter High School, 2007-2010.
+&nbsp;
 
-\definepagebreak[emptyodd][yes,header,footer,odd]
-\setuphead[chapter][page=emptyodd]
+&nbsp;
 
-\pagebreak
+&nbsp;
 
-Projects \& Publications
+&nbsp;
+
+Presentations, Projects \& Publications
 --------
 
 AWS System \crlf Architecture
@@ -80,25 +85,32 @@ AWS System \crlf Architecture
 
     - uses AWS Elastic Compute Cloud, Simple Queue Service, and Relational Database Service (PostgreSQL).  
 
-:   **API platform and database**
-
-    - maintain proprietary API platform and database
-    - running on AWS Elastic Compute Cloud and Relational Database Service
-    - running Django, PostgreSQL, Redis, MongoDB, and Celery.
-
-C \& Ruby
-:   [**`simple_sipp_load_tester` gem**](https://github.com/Invoca/simple_sipp_load_tester),
+C
+:   [**`simple_sipp_load_tester` **](https://github.com/Invoca/simple_sipp_load_tester),
 
     - a wrapper to a C tool for load testing SIP platforms.
 
-:   [**`invoke_call` gem**](https://github.com/joshuacook/invoke_call)
+:   [**`invoke_call` **](https://github.com/joshuacook/invoke_call)
 
     - a command line SIP client.
 
-Docker \& Jupyter
-:   [**the Containerized Jupyter Platform**](https://leanpub.com/thecontainerizedjupyterplatform/)
+Computational Mathematics
+:   [**Applications of Imaginary Time Propagation Method in Material Research**](http://joshuacook.me/filesystem/applications_of_imaginary_time_propagation.pdf/)
 
-    - a reference text on using Docker to build a distributed data science platform.
+    - Presented a novel approach to the iterative solution of Hamiltonian matrices in the context of a density functional analysis of phase-change behavior in extremely low-temperature Helium.
+
+:   [**Computational Methods in Molecular Quantum Mechanics**](https://leanpub.com/computationalmethodsinmolecularquantummechanics)
+
+    - Senior thesis documenting work done in numerical python and C as part of the laboratory of Dr. Jussi Eloranta.
+
+Docker \& Jupyter
+:   [**CarND Term1 Starter Kit**](https://github.com/udacity/CarND-Term1-Starter-Kit)
+
+    - Designed and built Docker implementation in support for students in Self-Driving Car Nanodegree Program
+
+:   [**High-Performance Data Science with Docker, Jupyter, and Digital Ocean**](http://www.academia.edu/30140396/High_Performance_Data_Science_with_Docker_Jupyter_and_Digital_Ocean_ODSC_West_2016) [video](https://youtu.be/zdu6a0-JNiU)
+
+    - Talk delivered at ODSC-West 2016.
 
 :   [**Responsive Artificial Intelligence**](https://github.com/joshuacook/resp_AI), *In Progress*
 
@@ -117,30 +129,16 @@ Machine Learning
 
     - uses latent semantic analysis to perform search over a Wikipedia category.
 
-
-
 Education
 ---------
- \
-:   **Master of Applied Statistics** at UCLA
-   \ *expected completion May 2018*
-   \ (Los Angeles, Ca)
+ \ 
+:   **Bachelor of Science in Mathematics** at Cal State Northridge (Northridge, Ca).
 
-:   **Bachelor of Science in Mathematics** at Cal State Northridge
-    \ (Northridge, Ca).
+ \ 
+:   **Associate of Science in Physics** at Santa Barbara City College (Santa Barbara, Ca)
 
-    - Did graduate-level work in computational materials science through NSF sponsored internship with Chemistry lab.
-    - Presented poster, [*Applications of Imaginary Time Propagation Method in Material Research*](http://joshuacook.me/filesystem/applications_of_imaginary_time_propagation.pdf/).
-    - Wrote senior thesis, [*Computational Methods in Molecular Quantum Mechanics*](https://leanpub.com/computationalmethodsinmolecularquantummechanics).
+ \ 
+:   **Master of Education** at UCLA (Los Angeles, Ca)
 
- \
-: **Master of Education** at UCLA
-\ (Los Angeles, Ca)
-
- \
-:   **Bachelor of Arts in English** at UC Berkeley
-\ (Berkeley, Ca).
-
- \
-:   **Machine Learning Nanodegree** via [Udacity](https://profiles.udacity.com/u/joshuacook)
-\ *expected completion August 2016*
+ \ 
+:   **Bachelor of Arts in English** at UC Berkeley (Berkeley, Ca).
